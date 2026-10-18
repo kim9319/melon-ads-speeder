@@ -12,11 +12,10 @@ I built this project to learn how Chrome extensions work, using HTML, CSS, and J
 
 ## 📁 Files in this Project
 
-* `manifest.json` - The "rulebook" that tells Chrome how the extension works and asks for storage permissions.
-* `popup.html` - The "paint" that creates the look of the control panel menu.
-* `popup.js` - The "remote control" that makes the menu buttons work and checks the video speed 5 times a second.
-* `content.js` - The "engine" that runs on the YouTube webpage, listens for commands, watches for ads, and changes the actual video speed.
-
+* `manifest.json`
+* `popup.html` 
+* `popup.js` 
+* `content.js` 
 ## 🚀 How to Install and Use
 
 Since this is a custom extension, it is not in the Chrome Web Store. You can install it on your own browser in just a few clicks!
